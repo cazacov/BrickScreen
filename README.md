@@ -1,16 +1,16 @@
 # BrickScreen
 Simple display built from plastic bricks that uses PoV effect
 
-![Working Display](./_img_/working.jpg) 
+![Working Display](./_img/working.jpg) 
 
-![Circuit Diagram](./_img_/circuit_diagram.jpg) 
+![Circuit Diagram](./_img/circuit_diagram.jpg) 
 
-![LEDs](./_img_/LEDs.jpg) 
+![LEDs](./_img/LEDs.jpg) 
 
-![Motor](./_img_/motor.jpg) 
+![Motor](./_img/motor.jpg) 
 
-![Photo Sensor](./_img_/photo_sensor.jpg) 
+![Photo Sensor](./_img/photo_sensor.jpg) 
 
-![Photo Sensor](./_img_/photo_sensor_2.jpg) 
+![Photo Sensor](./_img/photo_sensor_2.jpg) 
 
-![Assembled System](./_img_/assembled.jpg) 
+![Assembled System](./_img/assembled.jpg) 
